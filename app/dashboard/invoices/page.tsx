@@ -1,7 +1,5 @@
-export const Page: React.FC = ({  }) => {
+export default function Page() {
     return (
         <p>Invoices Page</p>
     )
 };
-
-export default Page;
